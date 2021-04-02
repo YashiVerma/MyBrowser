@@ -1,0 +1,7 @@
+<resources>
+
+
+    <string name="app_name">CHEETAH Browser</string>
+    <string name="back">&lt;</string>
+    <string name="forward">&gt;</string>
+</resources>
